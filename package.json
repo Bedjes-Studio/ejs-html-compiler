@@ -1,0 +1,21 @@
+{
+  "name": "ejs-html-compiler",
+  "version": "1.0.2",
+  "description": "Compiler that transform EJS files to static html",
+  "main": "ejs-html-compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EJS",
+    "HTML",
+    "static"
+  ],
+  "author": "Bedjes Studio",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
